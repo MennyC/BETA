@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":false,"name":"序言","order":1,"parentId":0,"scrollX":488,"scrollY":386,"quick":false},
+{"id":2,"expanded":false,"name":"時空狹縫","order":2,"parentId":0,"scrollX":619,"scrollY":394,"quick":false},
+{"id":3,"expanded":true,"name":"舞台1","order":3,"parentId":0,"scrollX":488,"scrollY":386,"quick":false},
+{"id":4,"expanded":false,"name":"舞台2","order":4,"parentId":3,"scrollX":488,"scrollY":386,"quick":false},
+{"id":5,"expanded":false,"name":"舞台3","order":5,"parentId":3,"scrollX":410,"scrollY":386,"quick":false}
+]
